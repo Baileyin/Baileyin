@@ -7,6 +7,10 @@
 - 💬 Ask me about how to sreamline product development workflow
 - 📫 How to reach me: Linkedin
 
+- Tech Stack:
+- Notion, Trello, Miro, Jira, Moqups, Monday, Asana
+  
+
 <!--
 **Baileyin/Baileyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
