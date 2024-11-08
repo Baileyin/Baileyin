@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## - 🔭 I’m currently working on AI, Web3, DEFI projects
+## - 🔭 I’m currently working on AI, Web3, DEFI projects, participating in the TON Foundation hackathon
 - 🌱 I’m currently learning AI technologies
 - 👯 I’m looking to collaborate on AI, fintech, Web3 topics
 - 🤔 I’m looking for help with mastering my product management skills
